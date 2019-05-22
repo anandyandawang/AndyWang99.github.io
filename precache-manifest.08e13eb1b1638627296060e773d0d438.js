@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "./projects/personal-website.png"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "./robots.txt"
-  },
-  {
     "revision": "363153364e58286fd0b333126d52a6b9",
     "url": "./projects/yikes.webp"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "./robots.txt"
   },
   {
     "revision": "711bcc17a51ad2d9b54616260064f923",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "./img/logo.svg"
   },
   {
-    "revision": "cc18283dfa03951732b4d74302f23d49",
+    "revision": "c1a7bc9fea24556b9436535a28672690",
     "url": "./img/logo2.svg"
   },
   {
